@@ -52,16 +52,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "clearance|200275000|85003750|340384bf-b6a2-4443-8e5e-8a0de523c29e|95971f8f-2b9b-4afe-ad5e-1f49a8c462af",
-          ""
-        ],
-        [
-          "clearance|205950000|85003750|daae55e5-f7ee-429d-baa4-9a6163191648|70b5fb1f-03d0-43a0-a802-a66820b1fb38",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
